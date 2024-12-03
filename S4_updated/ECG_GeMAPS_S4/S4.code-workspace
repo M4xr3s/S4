@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "recordings_audio",
+			"path": "../recordings_audio/recordings_audio"
+		},
+		{
+			"name": "S4",
+			"path": "."
+		},
+		{
+			"name": "labels",
+			"path": "../Recola/labels"
+		}
+	],
+	"settings": {}
+}
